@@ -1,0 +1,220 @@
+2018-04-02 18:10:28 DEBUG StockExchange:13 - Initialize StockExchange.
+2018-04-02 18:10:28 INFO  StockExchange:18 - Opening StockExchange.
+2018-04-02 18:58:34 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 18:58:34 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 19:00:54 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 19:01:20 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 19:02:19 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 19:02:19 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 19:02:33 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 19:02:33 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 20:06:52 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 20:06:52 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 20:08:36 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 20:08:36 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 20:08:47 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 20:08:47 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 20:10:29 DEBUG StockExchange:14 - Initialize StockExchange.
+2018-04-02 20:10:29 INFO  StockExchange:20 - Opening StockExchange.
+2018-04-02 20:18:49 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-02 20:18:49 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-02 20:19:25 DEBUG StockExchange:34 - /tmp/stop_trading found, deleting.
+2018-04-02 20:20:25 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-02 20:20:25 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-02 20:20:30 DEBUG StockExchange:34 - /tmp/stop_trading found, deleting.
+2018-04-02 20:20:30 INFO  StockExchange:27 - Closing StockExchange.
+2018-04-02 20:27:01 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-02 20:27:01 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-02 20:27:02 INFO  StockExchange:27 - Closing StockExchange.
+2018-04-04 20:27:29 DEBUG StockExchange:15 - Initialize StockExchange.
+2018-04-04 20:27:29 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-04 20:28:03 DEBUG StockExchange:15 - Initialize StockExchange.
+2018-04-04 20:28:04 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-04 20:38:55 DEBUG StockExchange:15 - Initialize StockExchange.
+2018-04-04 20:38:55 INFO  StockExchange:22 - Opening StockExchange.
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s ETSY 20
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b ETSY 4
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b AMZN 6
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s FB 10
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s AMZN 1
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s ETSY 26
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b GOOG 10
+2018-04-04 20:38:55 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b TSLA 45
+2018-04-05 20:45:08 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 20:45:08 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 20:45:08 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 20:46:41 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 20:46:41 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 20:46:41 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 20:46:41 DEBUG OrderQueue:43 - Symbol: AAPL
+2018-04-05 21:00:32 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 101.00
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 71.00
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 59.00
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 8.00
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 30.00
+2018-04-05 21:00:32 DEBUG Share:28 - Current value: 105.00
+2018-04-05 21:00:32 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 21:00:32 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 21:00:32 DEBUG OrderQueue:43 - Symbol: AAPL
+2018-04-05 21:01:50 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 101.00
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 71.00
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 59.00
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 8.00
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 30.00
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 105.00
+2018-04-05 21:01:50 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 21:01:50 DEBUG OrderQueue:43 - Symbol: AAPL
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 71.00
+2018-04-05 21:01:50 DEBUG OrderQueue:46 - Cost: 355.00
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s ETSY 20
+2018-04-05 21:01:50 DEBUG OrderQueue:43 - Symbol: ETSY
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 8.00
+2018-04-05 21:01:50 DEBUG OrderQueue:46 - Cost: 160.00
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b ETSY 4
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b AMZN 6
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s FB 10
+2018-04-05 21:01:50 DEBUG OrderQueue:43 - Symbol: FB
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 30.00
+2018-04-05 21:01:50 DEBUG OrderQueue:46 - Cost: 300.00
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s AMZN 1
+2018-04-05 21:01:50 DEBUG OrderQueue:43 - Symbol: AMZN
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 105.00
+2018-04-05 21:01:50 DEBUG OrderQueue:46 - Cost: 105.00
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s ETSY 26
+2018-04-05 21:01:50 DEBUG OrderQueue:43 - Symbol: ETSY
+2018-04-05 21:01:50 DEBUG Share:28 - Current value: 8.00
+2018-04-05 21:01:50 DEBUG OrderQueue:46 - Cost: 208.00
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b GOOG 10
+2018-04-05 21:01:50 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b TSLA 45
+2018-04-05 22:13:11 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 22:13:11 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 22:13:11 DEBUG OrderQueue:46 - Cost: 355.00
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010001 s ETSY 20
+2018-04-05 22:13:11 DEBUG OrderQueue:46 - Cost: 160.00
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b ETSY 4
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010002 b AMZN 6
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s FB 10
+2018-04-05 22:13:11 DEBUG OrderQueue:46 - Cost: 300.00
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s AMZN 1
+2018-04-05 22:13:11 DEBUG OrderQueue:46 - Cost: 105.00
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010003 s ETSY 26
+2018-04-05 22:13:11 DEBUG OrderQueue:46 - Cost: 208.00
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b GOOG 10
+2018-04-05 22:13:11 INFO  OrderQueue:37 - Processing transaction > client: 100010004 b TSLA 45
+2018-04-05 22:16:15 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 22:16:15 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010001 s ETSY 20
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010002 b ETSY 4
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010002 b AMZN 6
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010003 s FB 10
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010003 s AMZN 1
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010003 s ETSY 26
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010004 b GOOG 10
+2018-04-05 22:16:15 INFO  OrderQueue:38 - Processing transaction > client: 100010004 b TSLA 45
+2018-04-05 22:19:19 DEBUG StockExchange:16 - Initialize StockExchange.
+2018-04-05 22:19:19 INFO  StockExchange:23 - Opening StockExchange.
+2018-04-05 22:19:19 INFO  OrderQueue:38 - Processing transaction > client: 100010001 s AAPL 5
+2018-04-07 13:59:45 DEBUG StockExchange:20 - Initialize StockExchange
+2018-04-07 22:37:38 DEBUG StockExchange:21 - Initialize StockExchange
+2018-04-08 16:16:41 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-10 21:47:50 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-10 22:02:52 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-10 22:02:52 DEBUG Market:43 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-10 22:05:14 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-10 22:05:14 DEBUG Market:43 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-10 22:05:14 DEBUG Market:49 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:32:43 DEBUG Portfolio:19 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:32:43 DEBUG Portfolio:19 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:37:12 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:37:12 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:37:59 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:37:59 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:38:50 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:38:50 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:38:50 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:38:50 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:38:50 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:38:50 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:40:36 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:40:36 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:40:36 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:40:36 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:40:36 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:40:36 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:40:36 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 06:53:23 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:53:23 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:53:23 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:53:23 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:53:23 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:53:23 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:53:23 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 06:54:09 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:54:09 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:54:09 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:54:09 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:54:09 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:54:09 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:54:09 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 06:54:09 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 06:54:41 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:54:41 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:54:41 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:54:41 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:54:41 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:54:41 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:54:41 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 06:54:41 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 06:54:41 DEBUG Portfolio:37 - Added share ETSY (9) to client's portfolio, total: 40
+2018-04-11 06:57:08 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 06:57:08 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 06:57:08 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 06:57:08 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 06:57:08 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 06:57:08 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 06:57:08 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 06:57:08 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 06:57:08 DEBUG Client:26 - Client Frodo bought 31 ETSY at 100.00, current funds: 26900.00
+2018-04-11 06:57:08 DEBUG Portfolio:37 - Added share ETSY (9) to client's portfolio, total: 40
+2018-04-11 06:57:08 DEBUG Client:26 - Client Frodo bought 9 ETSY at 100.00, current funds: 26000.00
+2018-04-11 07:01:46 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 07:01:46 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 07:01:46 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 07:01:46 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 07:01:46 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 07:01:46 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 07:01:46 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 07:01:46 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 07:01:46 DEBUG Client:26 - Client Frodo bought 31 ETSY at 100.00, current funds: 26900.00
+2018-04-11 07:01:46 DEBUG Company:31 - ETSY sold 31 shares at 100.00, current company value: 3100.00
+2018-04-11 07:01:46 DEBUG Market:55 - ETSY has -31 available shares, less than client Frodo requested: 9
+2018-04-11 07:04:25 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 07:04:25 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 07:04:25 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 07:04:25 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 07:04:25 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 07:04:25 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 07:04:25 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 07:04:25 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 07:04:25 DEBUG Client:26 - Client Frodo bought 31 ETSY at 100.00, current funds: 26900.00
+2018-04-11 07:04:25 DEBUG Company:31 - ETSY sold 31 shares at 100.00, current company value: 3100.00, available shares: -31
+2018-04-11 07:04:25 DEBUG Market:55 - ETSY has -31 available shares, less than client Frodo requested: 9
+2018-04-11 07:05:07 DEBUG Portfolio:21 - Loading client's portfolio: TSLA : 5
+2018-04-11 07:05:07 DEBUG Portfolio:21 - Loading client's portfolio: ETSY : 200
+2018-04-11 07:05:07 DEBUG Portfolio:21 - Loading client's portfolio: AMZN : 8
+2018-04-11 07:05:07 DEBUG StockExchange:13 - Initialize StockExchange
+2018-04-11 07:05:07 DEBUG Market:49 - GOOG's value is 1050.00, higher than client Frodo's max price: 1020.00
+2018-04-11 07:05:07 DEBUG Market:55 - GOOG has 5000 available shares, less than client Frodo requested: 8000
+2018-04-11 07:05:07 DEBUG Market:61 - Client Frodo has insufficient funds: 30000.00 to buy 310 ETSY shares at 100.00
+2018-04-11 07:05:07 DEBUG Portfolio:37 - Added share ETSY (31) to client's portfolio, total: 31
+2018-04-11 07:05:07 DEBUG Client:26 - Client Frodo bought 31 ETSY at 100.00, current funds: 26900.00
+2018-04-11 07:05:07 DEBUG Company:31 - ETSY sold 31 shares at 100.00, current company value: 3100.00, available shares: 9969
+2018-04-11 07:05:07 DEBUG Portfolio:37 - Added share ETSY (9) to client's portfolio, total: 40
+2018-04-11 07:05:07 DEBUG Client:26 - Client Frodo bought 9 ETSY at 100.00, current funds: 26000.00
+2018-04-11 07:05:07 DEBUG Company:31 - ETSY sold 9 shares at 100.00, current company value: 4000.00, available shares: 9960

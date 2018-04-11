@@ -1,0 +1,4 @@
+Frodo,30000,TSLA:5&ETSY:200
+Sam,30000,
+Merry,30000,
+Pippin,30000,AMZN:8
